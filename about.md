@@ -10,7 +10,7 @@ article_header:
   background_color: '#203028'
   background_image:
     # gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: assets/images/P1080134.JPG
+    src: https://github.com/LEGO999/LEGO999.github.io/blob/master/assets/images/P1080134.jpg
 ---
 <!-- more -->
 
@@ -41,7 +41,6 @@ titles:
   # @end locale config
 key: page-about
 --- -->
-<!-- <img align="right" src="assets/images/ZLY.png" height="150px"> -->
 <!-- ## Liangyu Zhong ## -->
 
 Hi! I am a fresh graduate of M. Sc Electromobility (specialization:driving assistance system) from University of Stuttgart in 2021. Prior to that, I received the Bachelor degree from South China University of Technology. Currently, I am looking for a PhD position in machine learning and/or computer vision.   
