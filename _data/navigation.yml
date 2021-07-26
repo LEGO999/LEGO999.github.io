@@ -60,7 +60,7 @@ Blog:                                                    # 目录 ID，唯一
         url:    /assets/category/work/blog/Python.html
       - title:  Linux
         url:    /assets/category/work/blog/Linux.html           
-  - title:      Paper reading                                      # 一级目录名字
-    children:
-      - title:  Self-training                                      # 二级目录名字
-        url:    /assets/category/work/paper/self-training.html     # 二级目录链接（此处填写我们上一步写好的分类页面）
+  # - title:      Paper reading                                      # 一级目录名字
+  #   children:
+  #     - title:  Self-training                                      # 二级目录名字
+  #       url:    /assets/category/work/paper/self-training.html     # 二级目录链接（此处填写我们上一步写好的分类页面）
