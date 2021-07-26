@@ -1,14 +1,14 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Blog
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       zh-Hans : &ZH_HANS  归档
       zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
+      # zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
       zh-Hant : &ZH_HANT  歸檔
       zh-TW   : *ZH_HANT
@@ -26,7 +26,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       About me
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -48,3 +48,19 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+Blog:                                                    # 目录 ID，唯一
+  - title:      Blog                                      # 一级目录名字
+    children:
+      - title:  ML General                                      # 二级目录名字
+        url:    /assets/category/work/blog/ML.html     # 二级目录链接（此处填写我们上一步写好的分类页面）
+      - title:  ML Framework
+        url:    /assets/category/work/blog/MLF.html
+      - title:  Python
+        url:    /assets/category/work/blog/Python.html
+      - title:  Linux
+        url:    /assets/category/work/blog/Linux.html           
+  - title:      Paper reading                                      # 一级目录名字
+    children:
+      - title:  Self-training                                      # 二级目录名字
+        url:    /assets/category/work/paper/self-training.html     # 二级目录链接（此处填写我们上一步写好的分类页面）
