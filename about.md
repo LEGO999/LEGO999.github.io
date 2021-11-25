@@ -43,7 +43,7 @@ key: page-about
 --- -->
 <!-- ## Liangyu Zhong ## -->
 
-Hi! I am a fresh graduate of M.Sc. Electromobility (specialization:driving assistance system) from University of Stuttgart in 2021. Prior to that, I received the bachelor degree from South China University of Technology. Currently, I am looking for a PhD position in machine learning and/or computer vision.   
+Hi! I am a fresh graduate of M.Sc. Electromobility (specialization:driving assistance system) from the University of Stuttgart in 2021. Before that, I received my B. Sc from the South China University of Technology. Currently, I am looking for a PhD position in machine learning and/or computer vision.   
 [TechBlog](./archive.html)/[Email](mailto:zhonglyu@gmail.com)/[LinkedIn](https://www.linkedin.com/in/liangyu-zhong-604967123/)/[GitHub](https://github.com/LEGO999)   
 <!-- ## This blog ## -->
-This TechBlog focuses on machine learning and summaries the background knowledge, tricks and strategies which I encountered recently.
+This TechBlog focuses on machine learning and summarizes the background knowledge, tricks, and strategies I recently encountered.
