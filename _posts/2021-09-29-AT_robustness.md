@@ -1,6 +1,6 @@
 ---
 layout: article                       # 不变
-title:  "Do adversarial defenses improve the robustness of DNNs?"     # 文章标题
+title:  "Do adversarial defenses improve robustness of DNNs?"     # 文章标题
 date:   2021-09-29 17:34:40 +0800     # 编写时间，不要超过当前系统时间，否则编译不通过
 key:   at_robustness               # 文章的唯一 ID，不要重复了
 aside:
